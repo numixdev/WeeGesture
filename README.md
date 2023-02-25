@@ -1,5 +1,5 @@
 # WeeGesture
-Using the Wii remote as a mouse on a computer using Csharp
+Using the Wii remote as a mouse on a computer wrote in Csharp
 
 Note: this code uses the WiimoteLib library, 
 which provides a C# interface for connecting 
